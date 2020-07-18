@@ -1,9 +1,9 @@
 {
-    "lens_id": "",
+    "lens_id": "67a08e4b-2861-4c9d-8148-46073fa5aefb",
     "document_id": "fkvW9kdiiFusd1TnhCSH",
     "original_document_id": "fkvW9kdiiFusd1TnhCSH",
     "version": "24",
-    "lastChanged": "1594956353476",
+    "lastChanged": "1594958232692",
     "preview": "icon.png",
     "videoPreview": "preview.mp4",
     "videoPreviewUpdateTime": "",
@@ -30,16 +30,23 @@
             "collapsedList": [
                 [
                     [
-                        "Glass"
+                        "Accent"
                     ],
                     [
-                        "Materials"
+                        "CreditAlpha"
                     ],
                     [
-                        "Meshes"
+                        "Crystal"
                     ],
                     [
-                        "Pylon"
+                        "Gold"
+                    ],
+                    [
+                        "IconSource"
+                    ],
+                    [
+                        "Meshes",
+                        "ground_grid_mesh"
                     ],
                     [
                         "Pylon",
@@ -54,45 +61,6 @@
                         "Pylon",
                         "Animations",
                         "Dummy003"
-                    ],
-                    [
-                        "Pylon",
-                        "Materials"
-                    ],
-                    [
-                        "Pylon",
-                        "Materials",
-                        "Akilae"
-                    ],
-                    [
-                        "Pylon",
-                        "Materials",
-                        "Cristall"
-                    ],
-                    [
-                        "Pylon",
-                        "Materials",
-                        "Dark Blue"
-                    ],
-                    [
-                        "Pylon",
-                        "Materials",
-                        "Lines"
-                    ],
-                    [
-                        "Pylon",
-                        "Materials",
-                        "Obodok"
-                    ],
-                    [
-                        "Pylon",
-                        "Materials",
-                        "Rounds"
-                    ],
-                    [
-                        "Pylon",
-                        "Materials",
-                        "Small lamps"
                     ],
                     [
                         "Pylon",
@@ -243,10 +211,12 @@
                         "Pylon"
                     ],
                     [
-                        "Scripts"
+                        "Textures",
+                        "Base"
                     ],
                     [
-                        "Textures"
+                        "Textures",
+                        "Normal"
                     ],
                     [
                         "Textures",
@@ -254,27 +224,12 @@
                     ],
                     [
                         "Textures",
+                        "speakeasy",
+                        "Specular"
+                    ],
+                    [
+                        "Textures",
                         "white"
-                    ],
-                    [
-                        "Trophy [REMOVE_ME]"
-                    ],
-                    [
-                        "Trophy [REMOVE_ME]",
-                        "Materials"
-                    ],
-                    [
-                        "Trophy [REMOVE_ME]",
-                        "Materials",
-                        "trophy_pbr"
-                    ],
-                    [
-                        "Trophy [REMOVE_ME]",
-                        "Meshes"
-                    ],
-                    [
-                        "Trophy [REMOVE_ME]",
-                        "Textures"
                     ]
                 ]
             ]
@@ -282,14 +237,18 @@
         "SceneTreeUiComponent": {
             "collapsedList": [
                 [
+                    "101:100",
                     "1508884415036595:113880",
-                    "1520377736560929:83996",
-                    "1594955603732378:3291845"
+                    "1594955603732378:3291845",
+                    "1594955603733643:3291923",
+                    "1594955603736938:3291948",
+                    "1594955603739795:3291967",
+                    "1594955603743046:3291998"
                 ]
             ]
         },
         "MetaInfoUIComponent": {
-            "icon_hash": "cbbadf59bbce3fc7b0ac4138faa25b02",
+            "icon_hash": "326e6cd068d5b017ce5d822b80468a37",
             "icon_path": "icon.png",
             "video_preview_path": "preview.mp4",
             "hints": [
@@ -408,38 +367,6 @@
                     "flags": "5"
                 },
                 {
-                    "resId": "157",
-                    "uid": "1510687041464881:18334",
-                    "name": "\/Resources\/Resource157.mesh",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "5"
-                },
-                {
-                    "resId": "159",
-                    "uid": "1510687140422169:18756",
-                    "name": "\/Resources\/Resource159.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "160",
-                    "uid": "1510687140556884:18765",
-                    "name": "\/Resources\/Resource160.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "173",
-                    "uid": "1510853662796593:7374",
-                    "name": "\/Resources\/Resource173.png",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "174",
                     "uid": "1511403648791631:290790",
                     "name": "\/Resources\/Resource174",
@@ -459,14 +386,6 @@
                     "resId": "176",
                     "uid": "1511403791848190:291597",
                     "name": "\/Resources\/Resource176",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "179",
-                    "uid": "1520028540541521:739995",
-                    "name": "\/Resources\/Resource179",
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
@@ -728,62 +647,6 @@
                     "flags": "0"
                 },
                 {
-                    "resId": "212",
-                    "uid": "1594955602797480:3290778",
-                    "name": "Files\/File91",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "213",
-                    "uid": "1594955602852131:3290797",
-                    "name": "Files\/File93",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "214",
-                    "uid": "1594955602891435:3290816",
-                    "name": "Files\/File95",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "215",
-                    "uid": "1594955602929640:3290839",
-                    "name": "Files\/File97",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "216",
-                    "uid": "1594955602968087:3290858",
-                    "name": "Files\/File99",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "217",
-                    "uid": "1594955603016536:3290877",
-                    "name": "Files\/File101",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
-                    "resId": "218",
-                    "uid": "1594955603057553:3290896",
-                    "name": "Files\/File103",
-                    "sourceFilePath": "",
-                    "additionalProperties": "",
-                    "flags": "1"
-                },
-                {
                     "resId": "219",
                     "uid": "1594955603186447:3291406",
                     "name": "Pylon",
@@ -814,6 +677,54 @@
                     "sourceFilePath": "",
                     "additionalProperties": "",
                     "flags": "1"
+                },
+                {
+                    "resId": "223",
+                    "uid": "1594956539694117:3475935",
+                    "name": "Files\/File114",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "224",
+                    "uid": "1594956676783858:3494689",
+                    "name": "Files\/File116",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "225",
+                    "uid": "1594956676853590:3494735",
+                    "name": "Files\/File118.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "226",
+                    "uid": "1594956676869388:3494747",
+                    "name": "Files\/File120.jpg",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "227",
+                    "uid": "1594957821861529:3689121",
+                    "name": "Files\/File122.js",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
+                },
+                {
+                    "resId": "228",
+                    "uid": "1594958069857288:3747181",
+                    "name": "Files\/File123.png",
+                    "sourceFilePath": "",
+                    "additionalProperties": "",
+                    "flags": "1"
                 }
             ],
             "MaterialUpdateManager": {
@@ -830,7 +741,22 @@
                     "uidsToFeatureNamesWithIntensity": ""
                 },
                 "ScreenTransform": {
-                    "uidData": "",
+                    "uidData": [
+                        {
+                            "k": "1594957599990001:3647050",
+                            "v": {
+                                "isBasicMode": "true",
+                                "basicModeSetup": {
+                                    "fixWidth": "false",
+                                    "fixHeight": "false",
+                                    "attachBottom": "false",
+                                    "attachLeft": "false",
+                                    "attachRight": "false",
+                                    "attachTop": "false"
+                                }
+                            }
+                        }
+                    ],
                     "generalData": ""
                 }
             }
@@ -839,66 +765,67 @@
             "autoRenderOrder": {
                 "0": "1498868100994780:363",
                 "1": "1507675612124687:16502",
-                "2": "1510687041436767:18328",
-                "3": "1510687041438434:18330",
-                "4": "1510687407760041:19246",
-                "5": "1510687744155854:20850",
-                "6": "1511403648788540:290784",
-                "7": "1520028516590214:738911",
-                "8": "1520377736560929:83996",
-                "9": "1594955603732378:3291845",
-                "10": "1594955603733643:3291923",
-                "11": "1594955603734147:3291927",
-                "12": "1594955603734389:3291929",
-                "13": "1594955603736938:3291948",
-                "14": "1594955603737263:3291950",
-                "15": "1594955603739795:3291967",
-                "16": "1594955603741573:3291981",
-                "17": "1594955603743046:3291998",
-                "18": "1594955603743331:3292000",
-                "19": "1594955603745506:3292019",
-                "20": "1594955603747185:3292036",
-                "21": "1594955603748816:3292060",
-                "22": "1594955603749053:3292062",
-                "23": "1594955603750315:3292079",
-                "24": "1594955603751545:3292081",
-                "25": "1594955603753544:3292102",
-                "26": "1594955603757344:3292122",
-                "27": "1594955603758834:3292136",
-                "28": "1594955603762467:3292163",
-                "29": "1594955603762729:3292165",
-                "30": "1594955603764252:3292182",
-                "31": "1594955603764631:3292184",
-                "32": "1594955603766826:3292203",
-                "33": "1594955603767217:3292205",
-                "34": "1594955603769234:3292224",
-                "35": "1594955603769528:3292226",
-                "36": "1594955603771778:3292250",
-                "37": "1594955603772496:3292252",
-                "38": "1594955603775455:3292269",
-                "39": "1594955603776120:3292271",
-                "40": "1594955603778727:3292288",
-                "41": "1594955603779130:3292290",
-                "42": "1594955603781483:3292312",
-                "43": "1594955603782527:3292326",
-                "44": "1594955603782746:3292328",
-                "45": "1594955603786264:3292378",
-                "46": "1594955603786711:3292384",
-                "47": "1594955603790975:3292426",
-                "48": "1594955603793164:3292429",
-                "49": "1594955603794969:3292432",
-                "50": "1594955603796049:3292436",
-                "51": "1594955603798658:3292450",
-                "52": "1594955603800599:3292467",
-                "53": "1594955603802569:3292484",
-                "54": "1594955603803871:3292498",
-                "55": "1594955603806408:3292515",
-                "56": "1594955603806709:3292517"
+                "2": "1510687407760041:19246",
+                "3": "1510687744155854:20850",
+                "4": "1511403648788540:290784",
+                "5": "1520028516590214:738911",
+                "6": "1520377736560929:83996",
+                "7": "1594955603732378:3291845",
+                "8": "1594955603733643:3291923",
+                "9": "1594955603734147:3291927",
+                "10": "1594955603734389:3291929",
+                "11": "1594955603736938:3291948",
+                "12": "1594955603737263:3291950",
+                "13": "1594955603739795:3291967",
+                "14": "1594955603741573:3291981",
+                "15": "1594955603743046:3291998",
+                "16": "1594955603743331:3292000",
+                "17": "1594955603745506:3292019",
+                "18": "1594955603747185:3292036",
+                "19": "1594955603748816:3292060",
+                "20": "1594955603749053:3292062",
+                "21": "1594955603750315:3292079",
+                "22": "1594955603751545:3292081",
+                "23": "1594955603753544:3292102",
+                "24": "1594955603757344:3292122",
+                "25": "1594955603758834:3292136",
+                "26": "1594955603762467:3292163",
+                "27": "1594955603762729:3292165",
+                "28": "1594955603764252:3292182",
+                "29": "1594955603764631:3292184",
+                "30": "1594955603766826:3292203",
+                "31": "1594955603767217:3292205",
+                "32": "1594955603769234:3292224",
+                "33": "1594955603769528:3292226",
+                "34": "1594955603771778:3292250",
+                "35": "1594955603772496:3292252",
+                "36": "1594955603775455:3292269",
+                "37": "1594955603776120:3292271",
+                "38": "1594955603778727:3292288",
+                "39": "1594955603779130:3292290",
+                "40": "1594955603781483:3292312",
+                "41": "1594955603782527:3292326",
+                "42": "1594955603782746:3292328",
+                "43": "1594955603786264:3292378",
+                "44": "1594955603786711:3292384",
+                "45": "1594955603790975:3292426",
+                "46": "1594955603793164:3292429",
+                "47": "1594955603794969:3292432",
+                "48": "1594955603796049:3292436",
+                "49": "1594955603798658:3292450",
+                "50": "1594955603800599:3292467",
+                "51": "1594955603802569:3292484",
+                "52": "1594955603803871:3292498",
+                "53": "1594955603806408:3292515",
+                "54": "1594955603806709:3292517",
+                "55": "1594957599957199:3646841",
+                "56": "1594957599967776:3646910",
+                "57": "1594957599989427:3647049"
             }
         },
         "LayerComponent": {
             "nextLayerId": "3",
-            "showOrthographicLayer": "false",
+            "showOrthographicLayer": "true",
             "layersInfo": [
                 {
                     "layerId": "0",
@@ -945,22 +872,6 @@
                     "v": "Files\/File7.mesh"
                 },
                 {
-                    "k": "8",
-                    "v": "Files\/File8.mesh"
-                },
-                {
-                    "k": "9",
-                    "v": "Files\/File9.png"
-                },
-                {
-                    "k": "10",
-                    "v": "Files\/File10.png"
-                },
-                {
-                    "k": "13",
-                    "v": "Files\/File13.png"
-                },
-                {
                     "k": "14",
                     "v": "Files\/File14"
                 },
@@ -971,10 +882,6 @@
                 {
                     "k": "16",
                     "v": "Files\/File16"
-                },
-                {
-                    "k": "17",
-                    "v": "Files\/File17"
                 },
                 {
                     "k": "18",
@@ -1019,10 +926,6 @@
                 {
                     "k": "28",
                     "v": "Files\/File28.lsmat"
-                },
-                {
-                    "k": "29",
-                    "v": "Files\/File29.lsmat"
                 },
                 {
                     "k": "30",
@@ -1269,62 +1172,6 @@
                     "v": "Files\/File90.mesh"
                 },
                 {
-                    "k": "91",
-                    "v": "Files\/File91"
-                },
-                {
-                    "k": "92",
-                    "v": "Files\/File92.lsmat"
-                },
-                {
-                    "k": "93",
-                    "v": "Files\/File93"
-                },
-                {
-                    "k": "94",
-                    "v": "Files\/File94.lsmat"
-                },
-                {
-                    "k": "95",
-                    "v": "Files\/File95"
-                },
-                {
-                    "k": "96",
-                    "v": "Files\/File96.lsmat"
-                },
-                {
-                    "k": "97",
-                    "v": "Files\/File97"
-                },
-                {
-                    "k": "98",
-                    "v": "Files\/File98.lsmat"
-                },
-                {
-                    "k": "99",
-                    "v": "Files\/File99"
-                },
-                {
-                    "k": "100",
-                    "v": "Files\/File100.lsmat"
-                },
-                {
-                    "k": "101",
-                    "v": "Files\/File101"
-                },
-                {
-                    "k": "102",
-                    "v": "Files\/File102.lsmat"
-                },
-                {
-                    "k": "103",
-                    "v": "Files\/File103"
-                },
-                {
-                    "k": "104",
-                    "v": "Files\/File104.lsmat"
-                },
-                {
                     "k": "105",
                     "v": "Files\/File105.oprfb"
                 },
@@ -1359,6 +1206,50 @@
                 {
                     "k": "113",
                     "v": "Files\/File113.png"
+                },
+                {
+                    "k": "114",
+                    "v": "Files\/File114"
+                },
+                {
+                    "k": "115",
+                    "v": "Files\/File115.lsmat"
+                },
+                {
+                    "k": "116",
+                    "v": "Files\/File116"
+                },
+                {
+                    "k": "117",
+                    "v": "Files\/File117.lsmat"
+                },
+                {
+                    "k": "118",
+                    "v": "Files\/File118.png"
+                },
+                {
+                    "k": "119",
+                    "v": "Files\/File119.png"
+                },
+                {
+                    "k": "120",
+                    "v": "Files\/File120.png"
+                },
+                {
+                    "k": "121",
+                    "v": "Files\/File121.png"
+                },
+                {
+                    "k": "122",
+                    "v": "Files\/File122.js"
+                },
+                {
+                    "k": "123",
+                    "v": "Files\/File123.png"
+                },
+                {
+                    "k": "124",
+                    "v": "Files\/File124.png"
                 }
             ]
         },
@@ -1428,80 +1319,12 @@
                         "v": "Materials\/touch_collision.lsmat"
                     },
                     {
-                        "k": "17",
-                        "v": "Trophy [REMOVE_ME]"
-                    },
-                    {
-                        "k": "18",
-                        "v": "Trophy [REMOVE_ME]\/Materials"
-                    },
-                    {
-                        "k": "19",
-                        "v": "Trophy [REMOVE_ME]\/Materials\/trophy_pbr.lsmat"
-                    },
-                    {
-                        "k": "20",
-                        "v": "Trophy [REMOVE_ME]\/Meshes"
-                    },
-                    {
-                        "k": "21",
-                        "v": "Trophy [REMOVE_ME]\/Meshes\/trophy.mesh"
-                    },
-                    {
-                        "k": "22",
-                        "v": "Trophy [REMOVE_ME]\/Textures"
-                    },
-                    {
-                        "k": "23",
-                        "v": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_materialParams.png"
-                    },
-                    {
-                        "k": "24",
-                        "v": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_normal.png"
-                    },
-                    {
-                        "k": "25",
-                        "v": "Trophy [REMOVE_ME]\/Textures\/trophy_02_lambert1_base.png"
-                    },
-                    {
                         "k": "628",
                         "v": "Textures\/speakeasy.hdr"
                     },
                     {
                         "k": "12469",
                         "v": "Pylon.fbx"
-                    },
-                    {
-                        "k": "12470",
-                        "v": "..\/AdditionalFiles\/Pylon\/Materials"
-                    },
-                    {
-                        "k": "12471",
-                        "v": "..\/AdditionalFiles\/Pylon\/Materials\/Cristall.lsmat"
-                    },
-                    {
-                        "k": "12472",
-                        "v": "..\/AdditionalFiles\/Pylon\/Materials\/Obodok.lsmat"
-                    },
-                    {
-                        "k": "12473",
-                        "v": "..\/AdditionalFiles\/Pylon\/Materials\/Small lamps.lsmat"
-                    },
-                    {
-                        "k": "12474",
-                        "v": "..\/AdditionalFiles\/Pylon\/Materials\/Dark Blue.lsmat"
-                    },
-                    {
-                        "k": "12475",
-                        "v": "..\/AdditionalFiles\/Pylon\/Materials\/Rounds.lsmat"
-                    },
-                    {
-                        "k": "12476",
-                        "v": "..\/AdditionalFiles\/Pylon\/Materials\/Akilae.lsmat"
-                    },
-                    {
-                        "k": "12477",
-                        "v": "..\/AdditionalFiles\/Pylon\/Materials\/Lines.lsmat"
                     },
                     {
                         "k": "12478",
@@ -1513,7 +1336,31 @@
                     },
                     {
                         "k": "12480",
-                        "v": "Glass.lsmat"
+                        "v": "Crystal.lsmat"
+                    },
+                    {
+                        "k": "12481",
+                        "v": "Gold.lsmat"
+                    },
+                    {
+                        "k": "12482",
+                        "v": "Textures\/Base.png"
+                    },
+                    {
+                        "k": "12483",
+                        "v": "Textures\/Normal.png"
+                    },
+                    {
+                        "k": "12484",
+                        "v": "Accent.lsmat"
+                    },
+                    {
+                        "k": "12485",
+                        "v": "CreditAlpha.js"
+                    },
+                    {
+                        "k": "12486",
+                        "v": "IconSource.png"
                     }
                 ],
                 "hashes": [
@@ -1631,21 +1478,45 @@
                     },
                     {
                         "k": "12480",
-                        "v": "878e06f64eb98de2909dabb6a5bf8e8d"
+                        "v": "e8ec1e4a335017e3e943855f852b8de8"
+                    },
+                    {
+                        "k": "12481",
+                        "v": "dd213ed916c2134986ae8393f67a1f5a"
+                    },
+                    {
+                        "k": "12482",
+                        "v": "cb607d7b25a160872c49fb4d2635cc33"
+                    },
+                    {
+                        "k": "12483",
+                        "v": "8a0173d0b987e1abfebd4ef9e3304c0b"
+                    },
+                    {
+                        "k": "12484",
+                        "v": "7566bbe46d75a94df8a5c4c4bede35c7"
+                    },
+                    {
+                        "k": "12485",
+                        "v": "db50ced2ab3f6080ee3a2da797902079"
+                    },
+                    {
+                        "k": "12486",
+                        "v": "16932c475fabb1b587fa623e001c523c"
                     }
                 ],
                 "publicState": {
                     "tree": {
                         "isFolder": "true",
-                        "lastModified": "2020-07-16T20:19:40",
+                        "lastModified": "2020-07-16T20:54:34",
                         "name": "Public",
-                        "hash": "5125fd14cde36bf419254be8ec243967",
+                        "hash": "a109ec530604dbb2d4301e8e3268f2dd",
                         "children": [
                             {
                                 "isFolder": "true",
-                                "lastModified": "2020-07-16T20:14:32",
+                                "lastModified": "2020-07-16T20:31:16",
                                 "name": "Textures",
-                                "hash": "853cfcf54ac9f8bab4828a7332206b47",
+                                "hash": "dc2a430414735cd502b626c723c4ffdc",
                                 "children": [
                                     {
                                         "isFolder": "false",
@@ -1673,6 +1544,20 @@
                                         "lastModified": "2020-07-07T20:02:35",
                                         "name": "ground_grid_mask.png",
                                         "hash": "c423d0672421aae010ca988af5ed0711",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-16T20:31:16",
+                                        "name": "Base.png",
+                                        "hash": "cb607d7b25a160872c49fb4d2635cc33",
+                                        "children": ""
+                                    },
+                                    {
+                                        "isFolder": "false",
+                                        "lastModified": "2020-07-16T20:31:16",
+                                        "name": "Normal.png",
+                                        "hash": "8a0173d0b987e1abfebd4ef9e3304c0b",
                                         "children": ""
                                     },
                                     {
@@ -1726,6 +1611,13 @@
                                         "children": ""
                                     }
                                 ]
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-16T20:40:10",
+                                "name": "Crystal.lsmat",
+                                "hash": "e8ec1e4a335017e3e943855f852b8de8",
+                                "children": ""
                             },
                             {
                                 "isFolder": "true",
@@ -1794,9 +1686,9 @@
                             },
                             {
                                 "isFolder": "false",
-                                "lastModified": "2020-07-16T20:19:40",
-                                "name": "Glass.lsmat",
-                                "hash": "878e06f64eb98de2909dabb6a5bf8e8d",
+                                "lastModified": "2020-07-16T20:50:28",
+                                "name": "CreditAlpha.js",
+                                "hash": "db50ced2ab3f6080ee3a2da797902079",
                                 "children": ""
                             },
                             {
@@ -1807,99 +1699,25 @@
                                 "children": ""
                             },
                             {
-                                "isFolder": "true",
-                                "lastModified": "2020-07-16T20:14:18",
-                                "name": "Trophy [REMOVE_ME]",
-                                "hash": "70d0b42cee0e8ece1e377e33f1c0f34f",
-                                "children": [
-                                    {
-                                        "isFolder": "true",
-                                        "lastModified": "2020-07-16T20:14:18",
-                                        "name": "Textures",
-                                        "hash": "360b4c4013d42ebbb6a6b746ae6db196",
-                                        "children": [
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2020-07-07T20:02:34",
-                                                "name": "trophy_02_lambert1_normal.png",
-                                                "hash": "83ccdbd156cc30a8439ca510cc9d604c",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2020-07-07T20:02:34",
-                                                "name": "trophy_02_lambert1_base.png",
-                                                "hash": "a0c9ec185adcfaf415840e029282116e",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2020-07-07T20:02:34",
-                                                "name": "trophy_02_lambert1_materialParams.png",
-                                                "hash": "821ba9ba366c1ddee522c9757a6683c2",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2020-07-07T20:01:29",
-                                                "name": "folder.lock",
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                                "children": ""
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "isFolder": "true",
-                                        "lastModified": "2020-07-16T20:14:18",
-                                        "name": "Materials",
-                                        "hash": "2950e01c4c027cea67a1e30b7db584f3",
-                                        "children": [
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2020-07-10T00:50:36",
-                                                "name": "trophy_pbr.lsmat",
-                                                "hash": "456a2c946dd8b677c8e32e727fc04bc8",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2020-07-07T20:01:29",
-                                                "name": "folder.lock",
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                                "children": ""
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "isFolder": "true",
-                                        "lastModified": "2020-07-16T20:14:18",
-                                        "name": "Meshes",
-                                        "hash": "b017935f758ce286e476057aa6964acc",
-                                        "children": [
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2020-07-07T20:02:34",
-                                                "name": "trophy.mesh",
-                                                "hash": "d6706e60f0ea431467da735296bbc62e",
-                                                "children": ""
-                                            },
-                                            {
-                                                "isFolder": "false",
-                                                "lastModified": "2020-07-07T20:01:29",
-                                                "name": "folder.lock",
-                                                "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                                "children": ""
-                                            }
-                                        ]
-                                    },
-                                    {
-                                        "isFolder": "false",
-                                        "lastModified": "2020-07-07T20:01:29",
-                                        "name": "folder.lock",
-                                        "hash": "d41d8cd98f00b204e9800998ecf8427e",
-                                        "children": ""
-                                    }
-                                ]
+                                "isFolder": "false",
+                                "lastModified": "2020-07-16T20:38:49",
+                                "name": "Gold.lsmat",
+                                "hash": "dd213ed916c2134986ae8393f67a1f5a",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-16T20:49:06",
+                                "name": "IconSource.png",
+                                "hash": "16932c475fabb1b587fa623e001c523c",
+                                "children": ""
+                            },
+                            {
+                                "isFolder": "false",
+                                "lastModified": "2020-07-16T20:45:37",
+                                "name": "Accent.lsmat",
+                                "hash": "7566bbe46d75a94df8a5c4c4bede35c7",
+                                "children": ""
                             },
                             {
                                 "isFolder": "false",
@@ -2098,6 +1916,32 @@
                                 "publicId": "12479",
                                 "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-BcDUgZ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
                                 "additional": ""
+                            },
+                            {
+                                "name": "Base",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "225",
+                                "dependency": "0",
+                                "uid": "1594956676853590:3494735",
+                                "fileId": "118",
+                                "originalId": "119",
+                                "publicId": "12482",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-BcDUgZ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
+                            },
+                            {
+                                "name": "Normal",
+                                "type": "1",
+                                "subtype": "9",
+                                "resourceId": "226",
+                                "dependency": "0",
+                                "uid": "1594956676869388:3494747",
+                                "fileId": "120",
+                                "originalId": "121",
+                                "publicId": "12483",
+                                "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-BcDUgZ\/\/system\/\/emergencyFiles\/emergencyJpg.jpg",
+                                "additional": ""
                             }
                         ]
                     },
@@ -2206,131 +2050,6 @@
                                 "publicId": "16",
                                 "source": "",
                                 "additional": ""
-                            }
-                        ]
-                    },
-                    {
-                        "name": "Trophy [REMOVE_ME]",
-                        "type": "0",
-                        "subtype": "-1",
-                        "resourceId": "-1",
-                        "dependency": "0",
-                        "uid": "-1:-1",
-                        "fileId": "18446744073709551615",
-                        "originalId": "18446744073709551615",
-                        "publicId": "17",
-                        "source": "",
-                        "additional": "",
-                        "resources": [
-                            {
-                                "name": "Materials",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "18",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "trophy_pbr",
-                                        "type": "2",
-                                        "subtype": "0",
-                                        "resourceId": "179",
-                                        "dependency": "0",
-                                        "uid": "1520028540541521:739995",
-                                        "fileId": "17",
-                                        "originalId": "29",
-                                        "publicId": "19",
-                                        "source": "",
-                                        "additional": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Meshes",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "20",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "trophy",
-                                        "type": "3",
-                                        "subtype": "0",
-                                        "resourceId": "157",
-                                        "dependency": "0",
-                                        "uid": "1510687041464881:18334",
-                                        "fileId": "8",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "21",
-                                        "source": "",
-                                        "additional": ""
-                                    }
-                                ]
-                            },
-                            {
-                                "name": "Textures",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "22",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "trophy_02_lambert1_materialParams",
-                                        "type": "1",
-                                        "subtype": "9",
-                                        "resourceId": "159",
-                                        "dependency": "0",
-                                        "uid": "1510687140422169:18756",
-                                        "fileId": "9",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "23",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "trophy_02_lambert1_normal",
-                                        "type": "1",
-                                        "subtype": "9",
-                                        "resourceId": "160",
-                                        "dependency": "0",
-                                        "uid": "1510687140556884:18765",
-                                        "fileId": "10",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "24",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "trophy_02_lambert1_base",
-                                        "type": "1",
-                                        "subtype": "9",
-                                        "resourceId": "173",
-                                        "dependency": "0",
-                                        "uid": "1510853662796593:7374",
-                                        "fileId": "13",
-                                        "originalId": "18446744073709551615",
-                                        "publicId": "25",
-                                        "source": "",
-                                        "additional": ""
-                                    }
-                                ]
                             }
                         ]
                     },
@@ -3469,112 +3188,6 @@
                                 ]
                             },
                             {
-                                "name": "Materials",
-                                "type": "0",
-                                "subtype": "-1",
-                                "resourceId": "-1",
-                                "dependency": "0",
-                                "uid": "-1:-1",
-                                "fileId": "18446744073709551615",
-                                "originalId": "18446744073709551615",
-                                "publicId": "12470",
-                                "source": "",
-                                "additional": "",
-                                "resources": [
-                                    {
-                                        "name": "Cristall",
-                                        "type": "2",
-                                        "subtype": "0",
-                                        "resourceId": "212",
-                                        "dependency": "0",
-                                        "uid": "1594955602797480:3290778",
-                                        "fileId": "91",
-                                        "originalId": "92",
-                                        "publicId": "12471",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "Obodok",
-                                        "type": "2",
-                                        "subtype": "0",
-                                        "resourceId": "213",
-                                        "dependency": "0",
-                                        "uid": "1594955602852131:3290797",
-                                        "fileId": "93",
-                                        "originalId": "94",
-                                        "publicId": "12472",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "Small lamps",
-                                        "type": "2",
-                                        "subtype": "0",
-                                        "resourceId": "214",
-                                        "dependency": "0",
-                                        "uid": "1594955602891435:3290816",
-                                        "fileId": "95",
-                                        "originalId": "96",
-                                        "publicId": "12473",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "Dark Blue",
-                                        "type": "2",
-                                        "subtype": "0",
-                                        "resourceId": "215",
-                                        "dependency": "0",
-                                        "uid": "1594955602929640:3290839",
-                                        "fileId": "97",
-                                        "originalId": "98",
-                                        "publicId": "12474",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "Rounds",
-                                        "type": "2",
-                                        "subtype": "0",
-                                        "resourceId": "216",
-                                        "dependency": "0",
-                                        "uid": "1594955602968087:3290858",
-                                        "fileId": "99",
-                                        "originalId": "100",
-                                        "publicId": "12475",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "Akilae",
-                                        "type": "2",
-                                        "subtype": "0",
-                                        "resourceId": "217",
-                                        "dependency": "0",
-                                        "uid": "1594955603016536:3290877",
-                                        "fileId": "101",
-                                        "originalId": "102",
-                                        "publicId": "12476",
-                                        "source": "",
-                                        "additional": ""
-                                    },
-                                    {
-                                        "name": "Lines",
-                                        "type": "2",
-                                        "subtype": "0",
-                                        "resourceId": "218",
-                                        "dependency": "0",
-                                        "uid": "1594955603057553:3290896",
-                                        "fileId": "103",
-                                        "originalId": "104",
-                                        "publicId": "12477",
-                                        "source": "",
-                                        "additional": ""
-                                    }
-                                ]
-                            },
-                            {
                                 "name": "Pylon",
                                 "type": "12",
                                 "subtype": "-1",
@@ -3590,7 +3203,7 @@
                         ]
                     },
                     {
-                        "name": "Glass",
+                        "name": "Crystal",
                         "type": "2",
                         "subtype": "0",
                         "resourceId": "220",
@@ -3601,12 +3214,73 @@
                         "publicId": "12480",
                         "source": "",
                         "additional": ""
+                    },
+                    {
+                        "name": "Gold",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "223",
+                        "dependency": "0",
+                        "uid": "1594956539694117:3475935",
+                        "fileId": "114",
+                        "originalId": "115",
+                        "publicId": "12481",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "Accent",
+                        "type": "2",
+                        "subtype": "0",
+                        "resourceId": "224",
+                        "dependency": "0",
+                        "uid": "1594956676783858:3494689",
+                        "fileId": "116",
+                        "originalId": "117",
+                        "publicId": "12484",
+                        "source": "",
+                        "additional": ""
+                    },
+                    {
+                        "name": "CreditAlpha",
+                        "type": "4",
+                        "subtype": "0",
+                        "resourceId": "227",
+                        "dependency": "0",
+                        "uid": "1594957821861529:3689121",
+                        "fileId": "122",
+                        "originalId": "18446744073709551615",
+                        "publicId": "12485",
+                        "source": "\/private\/var\/folders\/3l\/pxx9ncrs6j38399lw07gqxbw0000gn\/T\/Lens Studio-BcDUgZ\/\/system\/\/emergencyFiles\/emergencyJs.js",
+                        "additional": ""
+                    },
+                    {
+                        "name": "IconSource",
+                        "type": "1",
+                        "subtype": "9",
+                        "resourceId": "228",
+                        "dependency": "0",
+                        "uid": "1594958069857288:3747181",
+                        "fileId": "123",
+                        "originalId": "124",
+                        "publicId": "12486",
+                        "source": "\/Users\/ejwessel\/Desktop\/Screen Shot 2020-07-16 at 20.49.00.png",
+                        "additional": ""
                     }
                 ]
             }
         },
         "InspectorController": {
-            "selection": ""
+            "selection": {
+                "resources": [
+                    {
+                        "uid": "1594958069857288:3747181",
+                        "path_list": [
+                            "Screen Shot 2020-07-16 at 20"
+                        ]
+                    }
+                ]
+            }
         },
         "EffectsController": {
             "1": "",
